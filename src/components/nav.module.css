@@ -1,0 +1,7 @@
+.nav {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 30px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  font-weight: bold;
+  font-size: 50px;
+}
